@@ -1,1 +1,1 @@
-console.log("hey, this for practice only!!!")
+console.log("hey")
